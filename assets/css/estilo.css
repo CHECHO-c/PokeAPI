@@ -1,0 +1,43 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    background-image: url(https://external-preview.redd.it/z7_wYb9-YSvt0pDJlDIu8iuK_aWdqZPg0wvrGdwNvBw.png?width=1080&crop=smart&auto=webp&s=b51a1bf0f7fb0810d91edeaa1a4ba38bef4334c7);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.form-control{
+    width: 50%;
+    justify-self: center;
+    margin-bottom: 2%;
+}
+
+.row{
+    margin-top: 5%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card{
+    text-align: left;
+    justify-self: center;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    background: linear-gradient(to bottom, rgba(228, 218, 218, 0.8), rgba(25, 155, 111, 0.5));
+    
+}
+
+.card-body h6 {
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    
+}
+
+.btnBuscarPokemon{
+    background-color: #7cad71;
+}
+.btnBuscarPokemon:hover{
+    background-color: #7cad71;
+}
